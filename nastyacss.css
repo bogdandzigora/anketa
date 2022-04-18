@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(252, 244, 249);
+}
+
+.vse{
+    max-width: 750px;
+    margin:auto;
+}
+
+.title-list{
+    display: flex;
+}
+
+.ogl{
+     margin-left: 40px;
+ }
+
+.avatarN{
+     border-radius: 10%;
+     box-shadow: 4px 4px 4px rgb(120, 117, 113);
+ }
+
+.data{
+     background-color: rgb(233, 214, 190);
+     margin-left: 5px;
+     margin-top: 20px;
+     padding-top: 5px;
+     padding-bottom: 7px;
+     border-radius: 15px;
+ }
+
+.data h2{
+     font-size: 16px;
+     margin: 0%;
+     margin-left: 40px;
+     font-weight: normal;
+     margin-top: 5px;
+     letter-spacing: 0.4px;
+     word-spacing: 0,5px;
+ }
+
+.social{
+    background-color: rgb(255, 212, 155);
+    margin-left: 5px;
+    border-radius: 15px;
+    padding-bottom: 5px;
+}
+
+.social h2{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 0.5px;
+}
+
+.list li{
+    cursor: pointer;
+}
+
+.rabota{
+    background-color: rgb(243, 213, 247);
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+}
+
+.rabota h2{
+    font-size: 20px;
+    padding-top: 7px;
+}
+
+table th{
+    padding-bottom: 5px;
+    padding-left: 40px;
+}
+table td{
+    padding-left: 45px;
+}
+
+/* table tr:nth-child(even){
+    background-color: rgb(148, 148, 148);
+}
+table tr:nth-child(odd){
+    background-color: rgb(207, 188, 188);
+    border-radius: 10px; */
+
+.tdtd{
+    padding-left: 90px;
+}
+
+.cebe{
+    background-color: rgb(248, 223, 192);
+    border-radius: 15px;
+    margin-top: 10px;
+    padding-left: 15px;
+    font-size: 13px;
+    padding-bottom: 5px;
+}
+.cebe h3{
+    font-weight: normal;
+    margin:auto;
+}
+
+
+
+
+
